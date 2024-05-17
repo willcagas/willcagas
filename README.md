@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is William Cagas.
+My name is William Cagas. I am currently a high school student exploring the realm of computer science and software engineering. Please take a look at some of my repo's!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,lua,java,react,robloxstudio,firebase,js,html,css,tailwind,kali,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,tailwind,lua,robloxstudio,qt,firebase,kali,linux)](https://skillicons.dev)
 
 <!--
 **willcagas/willcagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
