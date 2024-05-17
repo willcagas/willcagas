@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is William Cagas.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,lua,java,react,robloxstudio,firebase,js,html,css,tailwind,kali,qt)](https://skillicons.dev)
+
 <!--
 **willcagas/willcagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
