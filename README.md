@@ -3,12 +3,7 @@
 My name is William Cagas. I am currently a high school student exploring the realm of computer science and software engineering. Please take a look at some of my repos!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,tailwind,lua,robloxstudio,qt,firebase,kali,linux,arduino,vscode)](https://skillicons.dev)
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willcagas)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,tailwind,lua,robloxstudio,qt,firebase,kali,linux,arduino,vscode,nodejs,npm)](https://skillicons.dev)
 
 <!--
 **willcagas/willcagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
