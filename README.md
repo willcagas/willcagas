@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is William Cagas. I am currently a high school student exploring the realm of computer science and software engineering. Please take a look at some of my repos!
+Hi there! My name is William Cagas. I am currently a high school student exploring the realm of computer science and software engineering. Please take a look at some of my repos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/williamcagas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-cagas) 
