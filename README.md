@@ -1,21 +1,23 @@
-## 💫 About Me:
-Hi there! My name is William Cagas. I am currently a high school student exploring the realm of computer science and software engineering. 
+## 📚 About Me
+Hello! My name is William Cagas, and I'm a Hamiltonian high school student exploring the realm of software engineering and ML research.
 
-I also dabble in AI research.
+I'm currently researching applications of diffusion models in clinical settings in the [Xu Lab](https://xulabs.github.io/) at Carnegie Mellon University.
 
-Please take a look at some of my repos!
+I'm very ambitious, continously striving to learn, improve, and grow! Here are my highlights:
+- 🔨 I co-founded and led the organization of [HammerHacks](https://hammerhacks.ca/), Hamilton-Wentworth's first high school hackathon.
+- 📝 I led authorship of a published ML research paper titled [Medical Imaging Complexity and its Effects on GAN Performance](https://willcagas.github.io/medgans/).
+- 🌿 I recreated and modernized [WasteBuster](https://apps.apple.com/ca/app/wastebuster/id6450317120), an app designed to tackle overconsumption by promoting a circular economy.
+- 🏫 I taught Python fundamentals in the CS106A course at Stanford University's [Code in Place](https://codeinplace.stanford.edu/).
+- 🎮 I developed sword ability mechanics for [Sword Power Tycoon](https://www.roblox.com/games/6937615628/Sword-Power-Tycoon) on Roblox, attracting over 16 million visits and 30,000+ favourites.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-cagas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/williamcagas) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/314ql2czu5sd2xnwvsngdpaxht7m)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-cagas) [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=IMaV4_kAAAAJ) [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1951-1471)
 
-## 💻 Tech Stack:
-[![Other Langs](https://skillicons.dev/icons?i=python,java&theme=dark)](https://skillicons.dev)
+## 💻 Languages and Tools
+[![](https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,lua&theme=dark)](https://skillicons.dev)
 
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark)](https://skillicons.dev)
+## 📈 Stats
+![Languages](https://gh-readme-stats-git-main-william5553s-projects.vercel.app/api/top-langs/?username=willcagas&langs_count=10&layout=compact&theme=light&include_all_commits=true&count_private=true&hide_border=true)
 
-[![Game Development](https://skillicons.dev/icons?i=lua,robloxstudio,figma&theme=dark)](https://skillicons.dev)
-
----
 [![](https://visitcount.itsvg.in/api?id=willcagas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
