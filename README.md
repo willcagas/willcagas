@@ -1,11 +1,11 @@
 ## 📚 About Me
-Hello! My name is William Cagas, and I'm a Hamiltonian high school student exploring the realm of software engineering and ML research.
+Hello! My name is William Cagas, and I'm a Hamiltonian high school student exploring the realm of software engineering and computer science.
 
 I'm currently researching applications of diffusion models in clinical settings in the [Xu Lab](https://xulabs.github.io/) at Carnegie Mellon University.
 
 I'm very ambitious, continously striving to learn, improve, and grow! Here are my highlights:
-- 🔨 I co-founded and led the organization of [HammerHacks](https://hammerhacks.ca/), Hamilton-Wentworth's first high school hackathon.
-- 📝 I led authorship of a published ML research paper titled [Medical Imaging Complexity and its Effects on GAN Performance](https://willcagas.github.io/medgans/).
+- 🔨 I co-founded and led [HammerHacks](https://hammerhacks.ca/), Hamilton-Wentworth's first high school hackathon.
+- 📝 I served as the lead author for a published ML research paper titled [Medical Imaging Complexity and its Effects on GAN Performance](https://willcagas.github.io/medgans/).
 - 🌿 I recreated and modernized [WasteBuster](https://apps.apple.com/ca/app/wastebuster/id6450317120), an app designed to tackle overconsumption by promoting a circular economy.
 - 🏫 I taught Python fundamentals in the CS106A course at Stanford University's [Code in Place](https://codeinplace.stanford.edu/).
 - 🎮 I developed sword ability mechanics for [Sword Power Tycoon](https://www.roblox.com/games/6937615628/Sword-Power-Tycoon) on Roblox, attracting over 16 million visits and 30,000+ favourites.
