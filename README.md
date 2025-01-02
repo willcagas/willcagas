@@ -11,7 +11,10 @@ I'm very ambitious, continuously striving to learn, improve, and grow! Here are 
 - 🎮 I developed sword ability mechanics for [Sword Power Tycoon](https://www.roblox.com/games/6937615628/Sword-Power-Tycoon) on Roblox, attracting over 16 million visits and 30,000+ favourites.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-cagas) [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=IMaV4_kAAAAJ) [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1951-1471)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-cagas) [![X (formerly Twitter)](https://img.shields.io/badge/(formerly%20Twitter)-white?style=flat&logo=x&logoColor=black)](https://x.com/williamcagas) [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=IMaV4_kAAAAJ) [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1951-1471)
+
+
+
 
 ## 💻 Languages and Tools
 [![](https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,lua&theme=dark)](https://skillicons.dev)
