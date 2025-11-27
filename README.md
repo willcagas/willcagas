@@ -1,8 +1,6 @@
 ## 📚 About Me
 Hello! I'm William Cagas, a Hamiltonian high school student exploring the realms of software engineering and computer science.
 
-I'm currently researching applications of diffusion models in clinical settings in the [Xu Lab](https://xulabs.github.io/) at Carnegie Mellon University.
-
 I'm very ambitious, continuously striving to learn, improve, and grow! Here are my highlights:
 - 🔨 I co-founded and led [HammerHacks](https://hammerhacks.ca/), Hamilton-Wentworth's first high school hackathon.
 - 📝 I served as the lead author for a published ML research paper titled [Medical Imaging Complexity and its Effects on GAN Performance](https://willcagas.github.io/medgans/).
