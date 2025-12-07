@@ -1,5 +1,5 @@
 ## 📚 About Me
-Hello! I'm William Cagas, a software engineering student exploring the realms of software engineering and computer science.
+Hello! I'm William Cagas, a Software Engineering student at the University of Waterloo
 
 I'm very ambitious, continuously striving to learn, improve, and grow! Here are my highlights:
 - 🔨 I co-founded and led [HammerHacks](https://hammerhacks.ca/), Hamilton-Wentworth's first high school hackathon.
