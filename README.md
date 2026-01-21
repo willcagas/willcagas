@@ -1,4 +1,4 @@
-## About
+## about
 
 hey i'm will! 🪿
 
