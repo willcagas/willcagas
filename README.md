@@ -1,6 +1,6 @@
 ## About
 
-hey i'm will!
+hey i'm will! 🪿
 
 - software engineering @ <a href="https://uwaterloo.ca/" target="_blank" rel="noopener noreferrer">University of Waterloo</a>
 - builder interested in applied AI, bio/healthtech, ML research, full-stack dev, and real-world systems
@@ -14,6 +14,7 @@ previously:
 - built <a href="https://goosetrials.com/" target="_blank" rel="noopener noreferrer">Goose Trials</a> (1k unique users, 8k games played in 24h)
 - ml research @ <a href="https://xulabs.github.io/" target="_blank" rel="noopener noreferrer">CMU Xu Lab</a>
 - lead ml research @ <a href="https://algoverseairesearch.org/" target="_blank" rel="noopener noreferrer">Algoverse AI Research</a>
-- organized <a href="https://hammerhacks2024.wcagas.com/" target="_blank" rel="noopener noreferrer">HammerHacks</a> (140+ participants, 50 projects, $12,000 funding)
-- taught @ Stanford's <a href="https://codeinplace.stanford.edu/" target="_blank" rel="noopener noreferrer">Code in Place</a>
+- organized <a href="https://hammerhacks2024.wcagas.com/" target="_blank" rel="noopener noreferrer">HammerHacks</a> (140+ hackers, 50 projects, $12,000 in funding)
+- taught 2x @ <a href="https://codeinplace.stanford.edu/" target="_blank" rel="noopener noreferrer">Stanford's Code in Place</a>
+- created mobile apps @ <a href="https://www.careereducationcouncil.ca/" target="_blank" rel="noopener noreferrer">CEC</a> x <a href="https://www.apple.com/ca/" target="_blank" rel="noopener noreferrer">Apple Canada</a>
 - developed <a href="https://www.roblox.com/games/6937615628/Sword-Power-Tycoon/" target="_blank" rel="noopener noreferrer">Sword Power Tycoon</a> (19M+ plays, 36K+ favourites)
