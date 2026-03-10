@@ -6,7 +6,7 @@ hey i'm will! 🪿
 - builder interested in applied AI, bio/healthtech, ML research, full-stack dev, and real-world systems
 
 currently:
-- exploring multimodal AI for oncology workflows
+- building the scientific engine for AI/ML R&D @ <a href="https://thesislabs.ai/" target="_blank" rel="noopener noreferrer">Thesis (YC F25)<a>
 - leading AI work @ <a href="https://watai.ca/" target="_blank" rel="noopener noreferrer">WAT.ai</a> × <a href="https://bindwell.ai/" target="_blank" rel="noopener noreferrer">Bindwell (YC W25)<a>
 - building <a href="https://www.acnecura.io/" target="_blank" rel="noopener noreferrer">AcneCura</a> (300K+ organic views, featured on Global News)
 
