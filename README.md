@@ -8,10 +8,10 @@ hey i'm will! 🪿
 currently:
 - building the scientific engine for AI/ML R&D @ <a href="https://thesislabs.ai/" target="_blank" rel="noopener noreferrer">Thesis (YC F25)<a>
 - leading AI work @ <a href="https://watai.ca/" target="_blank" rel="noopener noreferrer">WAT.ai</a> × <a href="https://bindwell.ai/" target="_blank" rel="noopener noreferrer">Bindwell (YC W25)<a>
-- building <a href="https://www.acnecura.io/" target="_blank" rel="noopener noreferrer">AcneCura</a> (300K+ organic views, featured on Global News)
 
 previously:
-- built <a href="https://goosetrials.com/" target="_blank" rel="noopener noreferrer">Goose Trials</a> (1K unique users and 8K games played in 24h)
+- developed <a href="https://goosetrials.com/" target="_blank" rel="noopener noreferrer">Goose Trials</a> (1K unique users and 8K games played in 24h)
+- built <a href="https://www.acnecura.io/" target="_blank" rel="noopener noreferrer">AcneCura</a> (300K+ organic views, featured on Global News)
 - ml research @ <a href="https://xulabs.github.io/" target="_blank" rel="noopener noreferrer">CMU Xu Lab</a>
 - lead ml research @ <a href="https://algoverseairesearch.org/" target="_blank" rel="noopener noreferrer">Algoverse AI Research</a>
 - organized <a href="https://hammerhacks2024.wcagas.com/" target="_blank" rel="noopener noreferrer">HammerHacks</a> (140+ hackers, 50 projects, $12,000 in funding)
