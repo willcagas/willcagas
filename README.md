@@ -1,15 +1,16 @@
-## about
+### about
 
 hey i'm will! 🪿
 
-- software engineering @ <a href="https://uwaterloo.ca/" target="_blank" rel="noopener noreferrer">University of Waterloo</a>
-- builder interested in applied AI, bio/healthtech, ML research, full-stack dev, and real-world systems
+- software engineering @ <a href="https://uwaterloo.ca/" target="_blank" rel="noopener noreferrer">UWaterloo</a>
+- builder interested in applied AI, bio/healthtech, ML research, and full-stack/game dev
 
-currently:
-- building the scientific engine for AI/ML R&D @ <a href="https://thesislabs.ai/" target="_blank" rel="noopener noreferrer">Thesis (YC F25)<a>
-- leading AI work @ <a href="https://watai.ca/" target="_blank" rel="noopener noreferrer">WAT.ai</a> × <a href="https://bindwell.ai/" target="_blank" rel="noopener noreferrer">Bindwell (YC W25)<a>
+### currently:
+- accelerating AI/ML R&D @ <a href="https://thesislabs.ai/" target="_blank" rel="noopener noreferrer">Thesis (YC F25)<a>
+- leading AI pesticide compliance work @ <a href="https://watai.ca/" target="_blank" rel="noopener noreferrer">WAT.ai</a> × <a href="https://bindwell.ai/" target="_blank" rel="noopener noreferrer">Bindwell (YC W25)<a>
 
-previously:
+### previously:
+- created <a href="https://joinzentro.com/" target="_blank" rel="noopener noreferrer">Zentro</a> at a YC hackathon in SF (viral on X w/ 300K views in 24h)
 - developed <a href="https://goosetrials.com/" target="_blank" rel="noopener noreferrer">Goose Trials</a> (1K unique users and 8K games played in 24h)
 - built <a href="https://www.acnecura.io/" target="_blank" rel="noopener noreferrer">AcneCura</a> (300K+ organic views, featured on Global News)
 - ml research @ <a href="https://xulabs.github.io/" target="_blank" rel="noopener noreferrer">CMU Xu Lab</a>
