@@ -14,3 +14,5 @@ i've previously:
 - taught 2x @ <a href="https://codeinplace.stanford.edu/" target="_blank" rel="noopener noreferrer">Stanford's Code in Place</a>
 - created apps @ <a href="https://www.careereducationcouncil.ca/" target="_blank" rel="noopener noreferrer">CEC</a> x <a href="https://www.apple.com/ca/" target="_blank" rel="noopener noreferrer">Apple Canada</a>
 - developed <a href="https://www.roblox.com/games/6937615628/Sword-Power-Tycoon/" target="_blank" rel="noopener noreferrer">Sword Power Tycoon</a> (19M+ plays, 36K+ favourites)
+
+[![Website Badge](https://img.shields.io/badge/website-wcagas.com-blue)](https://www.wcagas.com/)
