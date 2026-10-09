@@ -4,7 +4,7 @@ i'm currently:
 - software engineering @ <a href="https://uwaterloo.ca/" target="_blank" rel="noopener noreferrer">UWaterloo</a>
 
 i've previously:
-- worked on evolutionary AI and autonomous AI/ML R&D @ <a href="https://thesislabs.ai/" target="_blank" rel="noopener noreferrer">Darwin (YC F25), prev. Thesis Labs<a>
+- worked on evolutionary AI and autonomous AI/ML R&D @ <a href="https://www.darwinrobotics.ai/" target="_blank" rel="noopener noreferrer">Darwin (YC F25), prev. Thesis Labs<a>
 - tpm @ <a href="https://watai.ca/" target="_blank" rel="noopener noreferrer">WAT.ai</a> × <a href="https://bindwell.ai/" target="_blank" rel="noopener noreferrer">Bindwell (YC W25)<a>
 - created <a href="https://joinzentro.com/" target="_blank" rel="noopener noreferrer">Zentro</a> at a YC hackathon (viral on X w/ 300K views in 24h)
 - developed <a href="https://goosetrials.com/" target="_blank" rel="noopener noreferrer">Goose Trials</a> (1K unique users and 8K games played in 24h)
